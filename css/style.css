@@ -282,9 +282,9 @@ body {
   
   .menu li {
     margin: 15px 0;
-    width: 50%;
-    text-align: center;
-    padding: 5px 0 10px;
+    width: 100%;
+    text-align: left;
+    padding: 5px 25px 10px;
   }
   
   .menu li a {
@@ -850,8 +850,8 @@ body {
 }
 ul.list-drop {
     position: absolute;
-    left: 160px;
-    top: 0;
+    left: 145px;
+    top: -8px;
     margin-top: 0 !important;
     display: none;
     border: none;
@@ -888,8 +888,8 @@ ul.list-drop-2 {
     }
     ul.list-drop {
         position: absolute;
-        left: 160px;
-        top: 0;
+        left: 145px;
+        top: -8px;
         margin-top: 0 !important;
         display: none;
         border: none;
@@ -899,9 +899,9 @@ ul.list-drop-2 {
     }
     ul.list-drop-2 {
         position: absolute;
-        left: 150px;
-        margin: 0;
-        top: -30px;
+        left: 140px;
+    margin: 0;
+    top: -20px;
         border: none;
     }
     
@@ -923,7 +923,8 @@ ul.list-drop-2 {
     }
     ul.list-drop {
         position: absolute;
-        left: 160px;
+        left: 145px;
+        top: -8px;
     }
    
     ul.list-drop {
@@ -939,9 +940,9 @@ ul.list-drop-2 {
     }
     ul.list-drop-2 {
         position: absolute;
-        left: 150px;
-        margin: 0;
-        top: -30px;
+        left: 140px;
+    margin: 0;
+    top: -20px;
         border: none;
     }
 
@@ -966,8 +967,8 @@ ul.list-drop-2 {
     }
     ul.list-drop {
         position: absolute;
-        left: 160px;
-        top: 0;
+        left: 145px;
+        top: -8px;
         margin-top: 0 !important;
         display: none;
         border: none;
@@ -977,9 +978,9 @@ ul.list-drop-2 {
     }
     ul.list-drop-2 {
         position: absolute;
-        left: 150px;
-        margin: 0;
-        top: -30px;
+        left: 140px;
+    margin: 0;
+    top: -20px;
         border: none;
     }
 }
